@@ -1,0 +1,26 @@
+#customers {
+    font-family: 'Roboto', sans-serif;;
+
+    border-collapse: collapse;
+    width: auto;
+    color: white;
+    text-align: center;
+}
+
+#customers td, #customers th {
+    border: 2px solid #000000;
+    padding: 8px;
+}
+
+#customers tr:nth-child(odd){background-color: #4f8cef;}
+#customers tr:nth-child(even){background-color: #6facff;}
+
+#customers th {
+    background-color: #27426d;
+}
+th{
+    font-weight: normal;
+}
+.jefke{
+    border: 35px solid #c7ced8;
+}
